@@ -1,0 +1,13 @@
+API access Token: 
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMWI4ODIyODA1M2NiNzI1NWU4ZjBiZDdkM2M2MGIxMCIsIm5iZiI6MTcyNjk4NzY3MC42MTYsInN1YiI6IjY2ZWZiZDk2YzIzNzI1OGU0YzI2MjdlYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gag8QuDL0n_05qKb7onFyksK8LwuzNl3EJ2G8LsjcNs
+
+
+API Key: 
+
+a1b88228053cb7255e8f0bd7d3c60b10
+
+https://api.themoviedb.org/3/movie/now_playing
+https://api.themoviedb.org/3/movie/popular
+https://api.themoviedb.org/3/movie/top_rated
+https://api.themoviedb.org/3/movie/upcoming
+https://api.themoviedb.org/3/search/movie
