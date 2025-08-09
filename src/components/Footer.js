@@ -11,10 +11,10 @@ export const Footer = () => {
                 </span>
                 <div className="flex mt-4 sm:justify-center md:mt-0 space-x-5 rtl:space-x-reverse">
 
-                    <a href="https://www.linkedin.com/in/sumit-namdeo/" className="text-gray-400 hover:text-gray-900 dark:hover:text-white" target='_blank'>
+                    <a href="https://www.linkedin.com/in/sumit-namdeo/" className="text-gray-400 hover:text-gray-900 dark:hover:text-white" rel="noreferrer" target='_blank'>
                         LinkedIn
                     </a>
-                    <a href="https://github.com/sumit-namdeo" className="text-gray-400 hover:text-gray-900 dark:hover:text-white" target='_blank'>
+                    <a href="https://github.com/sumit-namdeo" className="text-gray-400 hover:text-gray-900 dark:hover:text-white" rel="noreferrer" target='_blank'>
                         Github
                     </a>
                 </div>
